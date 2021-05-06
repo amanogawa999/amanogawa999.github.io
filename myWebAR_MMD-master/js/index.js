@@ -103,7 +103,7 @@ function init() {
   };
     
   /* pmd, vmd File */
-  var modelFile = './mmd/imoko/imoko.pmd'; //エッジ無しverにしないと描画が変になる
+  var modelFile = './mmd/pmd/imoko.pmd'; //エッジ無しverにしないと描画が変になる
   
   var vmdFiles = ['./mmd/vmd/地球最後の告白を_Latミクv2.31S_b.vmd'];
 
